@@ -11,35 +11,241 @@ From Spring 2015
 
 2015 Solutions Courtesy of Tommaso Denti. Used with permission.
 
-| PROBLEM SETS | PROBLEM SET SOLUTIONS |
-| --- | --- |
-| [Problem Set 1 (PDF)]({{< baseurl >}}/resources/mit14_123s15_pset_1_15) | [Problem Set 1 Solutions (PDF)]({{< baseurl >}}/resources/mit14_123s15_pset_1_sol_15) |
-| [Problem Set 2 (PDF)]({{< baseurl >}}/resources/mit14_123s15_pset_2_15) | [Problem Set 2 Solutions (PDF)]({{< baseurl >}}/resources/mit14_123s15_pset_2_sol_15) |
-| [Problem Set 3 (PDF)]({{< baseurl >}}/resources/mit14_123s15_pset_3_15) | [Problem Set 3 Solutions (PDF)]({{< baseurl >}}/resources/mit14_123s15_pset_3_sol_15) |
-| [Problem Set 4 (PDF)]({{< baseurl >}}/resources/mit14_123s15_pset_4_15) | [Problem Set 4 Solutions (PDF)]({{< baseurl >}}/resources/mit14_123s15_pset_4_sol_15) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+PROBLEM SETS
+{{< thclose >}}
+{{< thopen >}}
+PROBLEM SET SOLUTIONS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Problem Set 1 (PDF)]({{< baseurl >}}/resources/mit14_123s15_pset_1_15)
+{{< tdclose >}}
+{{< tdopen >}}
+[Problem Set 1 Solutions (PDF)]({{< baseurl >}}/resources/mit14_123s15_pset_1_sol_15)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Problem Set 2 (PDF)]({{< baseurl >}}/resources/mit14_123s15_pset_2_15)
+{{< tdclose >}}
+{{< tdopen >}}
+[Problem Set 2 Solutions (PDF)]({{< baseurl >}}/resources/mit14_123s15_pset_2_sol_15)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Problem Set 3 (PDF)]({{< baseurl >}}/resources/mit14_123s15_pset_3_15)
+{{< tdclose >}}
+{{< tdopen >}}
+[Problem Set 3 Solutions (PDF)]({{< baseurl >}}/resources/mit14_123s15_pset_3_sol_15)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Problem Set 4 (PDF)]({{< baseurl >}}/resources/mit14_123s15_pset_4_15)
+{{< tdclose >}}
+{{< tdopen >}}
+[Problem Set 4 Solutions (PDF)]({{< baseurl >}}/resources/mit14_123s15_pset_4_sol_15)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 From Previous Versions of the Course
 ------------------------------------
 
-| PROBLEM SETS | PROBLEM SET SOLUTIONS |
-| --- | --- |
-| {{< td-colspan 2 >}}**From Spring 2014 (Solutions Courtesy of Anton Tsoy. Used with Permission.)**{{< /td-colspan >}} ||
-| [2014 Problem Set 1 (PDF)]({{< baseurl >}}/resources/mit14_123s15_pset_1_14) | [2014 Problem Set 1 Solutions (PDF)]({{< baseurl >}}/resources/mit14_123s15_pset_1_sol_14) |
-| [2014 Problem Set 2 (PDF)]({{< baseurl >}}/resources/mit14_123s15_pset_2_14) | [2014 Problem Set 2 Solutions (PDF)]({{< baseurl >}}/resources/mit14_123s15_pset_2_sol_14) |
-| [2014 Problem Set 3 (PDF)]({{< baseurl >}}/resources/mit14_123s15_pset_3_14) | [2014 Problem Set 3 Solutions (PDF)]({{< baseurl >}}/resources/mit14_123s15_pset_3_sol_14) |
-| [2014 Problem Set 4 (PDF)]({{< baseurl >}}/resources/mit14_123s15_pset_4_14) | No solutions available. |
-| {{< td-colspan 2 >}}**From Spring 2012**{{< /td-colspan >}} ||
-| [2012 Problem Set 1 (PDF)]({{< baseurl >}}/resources/mit14_123s15_pset_1_12) | No solutions available. |
-| [2012 Problem Set 2 (PDF)]({{< baseurl >}}/resources/mit14_123s15_pset_2_12) | No solutions available. |
-| [2012 Problem Set 3 (PDF)]({{< baseurl >}}/resources/mit14_123s15_pset_3_12) | No solutions available. |
-| [2012 Problem Set 4 (PDF)]({{< baseurl >}}/resources/mit14_123s15_pset_4_12) | No solutions available. |
-| {{< td-colspan 2 >}}**From Spring 2011 (Solutions Courtesy of Alex Wolitzky. Used with Permission.)**{{< /td-colspan >}} ||
-| [2011 Problem Set 1 (PDF)]({{< baseurl >}}/resources/mit14_123s15_pset_1_11) | [2011 Problem Set 1 Solutions (PDF)]({{< baseurl >}}/resources/mit14_123s15_pset_1_sol_11) |
-| [2011 Problem Set 2 (PDF)]({{< baseurl >}}/resources/mit14_123s15_pset_2_11) | [2011 Problem Set 2 Solutions (PDF)]({{< baseurl >}}/resources/mit14_123s15_pset_2_sol_11) |
-| [2011 Problem Set 3 (PDF)]({{< baseurl >}}/resources/mit14_123s15_pset_3_11) | [2011 Problem Set 3 Solutions (PDF)]({{< baseurl >}}/resources/mit14_123s15_pset_3_sol_11) |
-| [2011 Problem Set 4 (PDF)]({{< baseurl >}}/resources/mit14_123s15_pset_4_11) | No solutions available. |
-| {{< td-colspan 2 >}}**From Spring 2010 (Solutions Courtesy of Suehyun Kwon. Used with Permission.)**{{< /td-colspan >}} ||
-| [2010 Problem Set 1 (PDF)]({{< baseurl >}}/resources/mit14_123s15_pset_1_10) | [2010 Problem Set 1 Solutions (PDF)]({{< baseurl >}}/resources/mit14_123s15_pset_1_sol_10) |
-| [2010 Problem Set 2 (PDF)]({{< baseurl >}}/resources/mit14_123s15_pset_2_10) | [2010 Problem Set 2 Solutions (PDF)]({{< baseurl >}}/resources/mit14_123s15_pset_2_sol_10) |
-| [2010 Problem Set 3 (PDF)]({{< baseurl >}}/resources/mit14_123s15_pset_3_10) | No solutions available. |
-| [2010 Problem Set 4 (PDF)]({{< baseurl >}}/resources/mit14_123s15_pset_4_10) | No solutions available.
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+PROBLEM SETS
+{{< thclose >}}
+{{< thopen >}}
+PROBLEM SET SOLUTIONS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**From Spring 2014 (Solutions Courtesy of Anton Tsoy. Used with Permission.)**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[2014 Problem Set 1 (PDF)]({{< baseurl >}}/resources/mit14_123s15_pset_1_14)
+{{< tdclose >}}
+{{< tdopen >}}
+[2014 Problem Set 1 Solutions (PDF)]({{< baseurl >}}/resources/mit14_123s15_pset_1_sol_14)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[2014 Problem Set 2 (PDF)]({{< baseurl >}}/resources/mit14_123s15_pset_2_14)
+{{< tdclose >}}
+{{< tdopen >}}
+[2014 Problem Set 2 Solutions (PDF)]({{< baseurl >}}/resources/mit14_123s15_pset_2_sol_14)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[2014 Problem Set 3 (PDF)]({{< baseurl >}}/resources/mit14_123s15_pset_3_14)
+{{< tdclose >}}
+{{< tdopen >}}
+[2014 Problem Set 3 Solutions (PDF)]({{< baseurl >}}/resources/mit14_123s15_pset_3_sol_14)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[2014 Problem Set 4 (PDF)]({{< baseurl >}}/resources/mit14_123s15_pset_4_14)
+{{< tdclose >}}
+{{< tdopen >}}
+No solutions available.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**From Spring 2012**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[2012 Problem Set 1 (PDF)]({{< baseurl >}}/resources/mit14_123s15_pset_1_12)
+{{< tdclose >}}
+{{< tdopen >}}
+No solutions available.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[2012 Problem Set 2 (PDF)]({{< baseurl >}}/resources/mit14_123s15_pset_2_12)
+{{< tdclose >}}
+{{< tdopen >}}
+No solutions available.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[2012 Problem Set 3 (PDF)]({{< baseurl >}}/resources/mit14_123s15_pset_3_12)
+{{< tdclose >}}
+{{< tdopen >}}
+No solutions available.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[2012 Problem Set 4 (PDF)]({{< baseurl >}}/resources/mit14_123s15_pset_4_12)
+{{< tdclose >}}
+{{< tdopen >}}
+No solutions available.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**From Spring 2011 (Solutions Courtesy of Alex Wolitzky. Used with Permission.)**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[2011 Problem Set 1 (PDF)]({{< baseurl >}}/resources/mit14_123s15_pset_1_11)
+{{< tdclose >}}
+{{< tdopen >}}
+[2011 Problem Set 1 Solutions (PDF)]({{< baseurl >}}/resources/mit14_123s15_pset_1_sol_11)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[2011 Problem Set 2 (PDF)]({{< baseurl >}}/resources/mit14_123s15_pset_2_11)
+{{< tdclose >}}
+{{< tdopen >}}
+[2011 Problem Set 2 Solutions (PDF)]({{< baseurl >}}/resources/mit14_123s15_pset_2_sol_11)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[2011 Problem Set 3 (PDF)]({{< baseurl >}}/resources/mit14_123s15_pset_3_11)
+{{< tdclose >}}
+{{< tdopen >}}
+[2011 Problem Set 3 Solutions (PDF)]({{< baseurl >}}/resources/mit14_123s15_pset_3_sol_11)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[2011 Problem Set 4 (PDF)]({{< baseurl >}}/resources/mit14_123s15_pset_4_11)
+{{< tdclose >}}
+{{< tdopen >}}
+No solutions available.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**From Spring 2010 (Solutions Courtesy of Suehyun Kwon. Used with Permission.)**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[2010 Problem Set 1 (PDF)]({{< baseurl >}}/resources/mit14_123s15_pset_1_10)
+{{< tdclose >}}
+{{< tdopen >}}
+[2010 Problem Set 1 Solutions (PDF)]({{< baseurl >}}/resources/mit14_123s15_pset_1_sol_10)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[2010 Problem Set 2 (PDF)]({{< baseurl >}}/resources/mit14_123s15_pset_2_10)
+{{< tdclose >}}
+{{< tdopen >}}
+[2010 Problem Set 2 Solutions (PDF)]({{< baseurl >}}/resources/mit14_123s15_pset_2_sol_10)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[2010 Problem Set 3 (PDF)]({{< baseurl >}}/resources/mit14_123s15_pset_3_10)
+{{< tdclose >}}
+{{< tdopen >}}
+No solutions available.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[2010 Problem Set 4 (PDF)]({{< baseurl >}}/resources/mit14_123s15_pset_4_10)
+{{< tdclose >}}
+{{< tdopen >}}
+No solutions available.
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
