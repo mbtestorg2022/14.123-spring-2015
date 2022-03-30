@@ -4,6 +4,7 @@ description: This file contains information regarding critiques & alternatives t
   expected utility theory lecture slides.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/14-123-microeconomic-theory-iii-spring-2015/6d6b28e1a3813503eef8243b057f9817_MIT14_123S15_utility.pdf
 file_type: application/pdf
+parent_uid: 19482ca2-66e4-9c67-a3c3-7987aa262ee0
 resourcetype: Document
 title: 14.123 S15 Microeconomic Theory III, Critiques & Alternatives to Expected Utility
   Theory Lecture Slides
