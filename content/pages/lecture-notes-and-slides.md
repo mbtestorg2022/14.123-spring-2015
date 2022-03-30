@@ -88,7 +88,7 @@ Alternatives to Expected Utility Theory
 [Chapter 6: Alternatives to Expected Utility Theory (PDF)]({{< baseurl >}}/resources/mit14_123s15_chap6)
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Critiques and Alternatives to Expected Utility Theory Lecture Slides (PDF)]({{< baseurl >}}/resources/mit14_123s15_utility)
+[Critiques and Alternatives to Expected Utility Theory Lecture Slides (PDF)]({{< baseurl >}}/resources/mit14_123s15_utility)
 {{< tdclose >}}
 
 {{< trclose >}}
